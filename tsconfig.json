@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "outDir": "",
+    "outDir": "/src",
     "sourceMap": true,
     "noImplicitAny": true,
     "module": "es6",
